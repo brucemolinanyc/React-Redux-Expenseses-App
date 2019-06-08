@@ -4,6 +4,10 @@
 
 In the project directory, you can run:
 
+### `yarn run dev-server`
+To run this project on http://localhost:8080/
+
+
 ### `npm start`
 
 Runs the app in the development mode.<br>
